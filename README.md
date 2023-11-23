@@ -22,7 +22,7 @@ Built a Netflix Clone using [TMDB API](https://www.themoviedb.org/).
 
 <img src="screenshots/ManageProfiles.png" alt="Manage Profile Page">
 
-### Add Prfile
+### Add Profile
 
 <img src="screenshots/AddProfile.png" alt="Add Profile Page">
 
