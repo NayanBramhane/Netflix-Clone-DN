@@ -1,5 +1,31 @@
 # Netflix Clone
 
-Created this app by referencing Netflix
+Built a Netflix Clone using [TMDB API](https://www.themoviedb.org/).
 
-🔗Live Link: 
+## Tech Stack & Tools
+
+**React, Typescript, TailwindCSS, React Router, React Hooks, Vite, HeadlessUI, HeroIcons**
+
+## Live Link
+
+[🔗Click Here](https://netflix-clone-by-nayan.netlify.app/)
+
+### SignIn
+
+<img src="screenshots/SignIn.png" alt="SignIn">
+
+### Home
+
+<img src="screenshots/HomePage.png" alt="Home Page">
+
+### Manage Profile
+
+<img src="screenshots/ManageProfiles.png" alt="Manage Profile Page">
+
+### Add Prfile
+
+<img src="screenshots/AddProfile.png" alt="Add Profile Page">
+
+### Error Page
+
+<img src="screenshots/ErrorPage.png" alt="Error Page">
