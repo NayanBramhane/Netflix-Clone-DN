@@ -6,9 +6,9 @@ Built a Netflix Clone using [TMDB API](https://www.themoviedb.org/).
 
 **React, Typescript, TailwindCSS, React Router, React Hooks, Vite, HeadlessUI, HeroIcons**
 
-## Live Link
+## 🔗Live Link
 
-[🔗Click Here](https://netflix-clone-by-nayan.netlify.app/)
+[Click Here](https://netflix-clone-by-nayan.netlify.app/)
 
 ### SignIn
 
