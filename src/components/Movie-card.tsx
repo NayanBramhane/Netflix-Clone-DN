@@ -34,7 +34,6 @@ export default function MovieCard({
     //when mouse enters the card
     const [videoInfo] = await fetchVideoInfo(id.toString()); //fetch video info
     let calculatedPosition = movieCardRef.current?.getBoundingClientRect(); //get card position
-    console.log({ calculatedPosition });
     let top = (calculatedPosition?.top ?? 0) - 100; //decreasing 100 from the top position
     let left = (calculatedPosition?.left ?? 0) - 100; //decreasing 100 from the left position
     if (left < 0) {
